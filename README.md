@@ -1,6 +1,3 @@
-### Research Interest
-Privacy-Preserving Machine Learning and Network Security
-
 ### Education
 Kwame Nkrumah University of Science and Technology
 * MPhil. Computer Engineering 
