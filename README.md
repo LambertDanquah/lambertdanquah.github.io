@@ -5,4 +5,4 @@ MPhil. Computer Engineering
 
 
 ##Research Interest
- Machine Learning, Privacy, Network Security 
+Machine Learning, Privacy, Network Security 
