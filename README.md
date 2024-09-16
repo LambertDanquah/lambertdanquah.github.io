@@ -1,8 +1,8 @@
 # Lambert Kofi Gyan Danquah
 
-###Education
+##Education
 MPhil. Computer Engineering
 
 
-###Research Interest
+##Research Interest
  Machine Learning, Privacy, Network Security 
