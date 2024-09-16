@@ -7,3 +7,5 @@ Kwame Nkrumah University of Science and Technology
 
 ## Research Experience 
 * Master's Thesis: Computationally Efficient Deep Federated Learning with Optimized Feature Selection for IoT Botnet Attack Detection
+  
+* Research Project: Review of Channel Estimation Techniques in 5G mMIMO
