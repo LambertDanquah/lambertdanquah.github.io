@@ -1,4 +1,4 @@
-# Machine Learning | Privacy | Network Security 
+# Lambert Kofi Gyan Danquah 
 
 ### Education
 Kwame Nkrumah University of Science and Technology
