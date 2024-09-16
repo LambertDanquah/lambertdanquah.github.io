@@ -1,3 +1,5 @@
+I am Machine Learning and Network Security Researcher.
+
 ## Education
 - **MPhil. Computer Engineering**  
   Kwame Nkrumah University of Science and Technology
