@@ -1,8 +1,9 @@
-# Lambert Kofi Gyan Danquah
+## Research Interest
+Privacy-Preserving Machine Learning and Network Security
 
-##Education
-MPhil. Computer Engineering
+## Education
+Kwame Nkrumah University of Science and Technology
+* MPhil. Computer Engineering 
 
-
-##Research Interest
-Machine Learning, Privacy, Network Security 
+## Research Experience 
+* Master's Thesis: Computationally Efficient Deep Federated Learning for 
