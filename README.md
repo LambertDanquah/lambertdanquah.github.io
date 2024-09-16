@@ -1,5 +1,3 @@
-# Lambert Kofi Gyan Danquah 
-
 ### Education
 Kwame Nkrumah University of Science and Technology
 * MPhil. Computer Engineering 
