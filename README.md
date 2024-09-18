@@ -1,4 +1,4 @@
-I am Machine Learning and Network Security Researcher.
+Machine Learning, Privacy and Network Security Researcher.
 
 ## Education
 - **MPhil. Computer Engineering**  
