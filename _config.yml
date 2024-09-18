@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jane Doe"
+title                    : "Lambert Kofi Gyan Danquah"
 title_separator          : "-"
-name                     : "Jane Doe"
+name                     : "Lambert Kofi Gyan Danquah"
 description:  > # this means to ignore newlines until "baseurl:"
   Research on machine learning, experimental design, economic inequality, and optimal policy
 url                      : "https://psolymos.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
