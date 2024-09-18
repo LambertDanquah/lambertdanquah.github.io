@@ -1,5 +1,12 @@
 title: Lambert Kofi Gyan Danquah 
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
-
+params:
+  theme:
+    highlightJS: true
+    highlightTheme: "monokai"
+    logo: "/images/logo.png"  # Replace with your logo
+    showDate: true
+    showTags: true
+    paginate: 10
+    postSummary: true
+    socials:
+            github: "https://github.com/LambertDanquah"
